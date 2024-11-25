@@ -9,8 +9,9 @@ import Hotel from './Components/Hotels';
 import AirLine from './Components/AirLine';
 import Tourism from './Components/Tourism';
 
-
 function App() {
+
+ 
   return (
     <>
     <div className='main'>

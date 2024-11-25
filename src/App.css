@@ -41,9 +41,13 @@
 }
 
 .main{
-  background-color: rgba(207, 201, 128, 0.874);
-  height: 800px
-  
+  height: 800px;
+  background-image: url('https://images.pexels.com/photos/1134176/pexels-photo-1134176.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  position: fixed;
+  min-height: 100%;
+  min-width: 100%;
+  background-size: cover;
+  background-position: center;
 }
 
 .header{
@@ -76,7 +80,6 @@
   margin-top: 150px;
   border: 1px solid black;
   border-radius: 10px;
-  background-color: rgba(128, 120, 120, 0.81);
 }
 
 .cont-R{
@@ -86,6 +89,7 @@
 .btn-primary{
   margin-top: 10px;
 }
+
 
 
 
